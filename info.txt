@@ -1,0 +1,5 @@
+username: be_gould
+password: GOULD@b2712
+
+
+databaseconnection = mongodb+srv://be_gould:<password>@cluster0.8xqir.mongodb.net/<dbname>
